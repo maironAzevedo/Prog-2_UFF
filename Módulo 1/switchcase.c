@@ -26,7 +26,7 @@ int main() {
         case 3:
             vol = pow(LADO,3)/3;
             printf("O volume do prisma hexagonal eh igual a: \n%.2f", vol );
-            break;
+            break;           
     }
     return 0;
 }
